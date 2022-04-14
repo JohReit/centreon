@@ -90,6 +90,7 @@ const Main = (): JSX.Element => {
 
   return (
     <React.Suspense fallback={<MainLoaderWithoutTranslation />}>
+      <p>coucou</p>
       <Routes>
         <Route element={<LoginPage />} path={reactRoutes.login} />
         <Route
