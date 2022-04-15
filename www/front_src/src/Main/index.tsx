@@ -42,7 +42,7 @@ const ResetPasswordPage = React.lazy(() => import('../ResetPassword'));
 
 const AppPage = React.lazy(() => import('./InitializationPage'));
 
-console.log('testdsds');
+console.log('test');
 
 const Main = (): JSX.Element => {
   const navigate = useNavigate();
