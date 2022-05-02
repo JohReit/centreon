@@ -188,7 +188,7 @@ class CentreonDowntime extends CentreonObject
                     $filterList = ';' . $this->listResources($element["dt_id"]);
                 }
             }
-        echo $paramString;
+            echo $paramString;
         }
 
         foreach ($elements as $tab) {
