@@ -188,4 +188,6 @@
     --service-unknown-font-color: var(--color-black);
     --list-ack-background-color: var(--color-horses-neck);
     --list-ack-hover-background-color: var(--list-one-hover-background-color);
+    --custom-macros-placeholder-font-color: var(--color-black);
+    --custom-macros-font-color: var(--color-white);
 }
